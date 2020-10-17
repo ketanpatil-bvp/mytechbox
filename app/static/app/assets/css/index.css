@@ -1,0 +1,85 @@
+body{
+    font-family: 'Montserrat', sans-serif!important;
+}
+
+nav{
+    background-color: black;
+}
+
+nav a{
+    color: white!important
+}
+
+.login{
+    margin-right: 100px!important;
+    font-weight: 600;
+}
+
+.navbar-nav{
+    margin-left: 100px!important;
+}
+
+.nav-item{
+    margin-right: 10px;
+    padding: 15px;
+}
+
+.header{
+    background-color: black!important;
+    height: 90vh;
+    margin-top: 50px;
+}
+
+.header img{
+    width: 100%;
+}
+
+.header .col-6{
+    color: white;
+}
+
+.header-text h1{
+    padding-top: 200px;
+    font-weight: 700!important;
+    font-size: 100px;
+}
+
+
+.box-icon img{
+    width: 50%;
+    padding-top: 150px;
+    
+}
+
+
+.vid-list .card{
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 0 0px 9px -1px black;
+    height: 300px;
+    
+
+}
+
+
+.vid-list .card-body{
+    
+    padding: 10px 10px 10px 0px !important;
+}
+
+
+
+footer .card-body,footer .card-title{
+    background-color: #3c3c3c;
+    color: white;
+    font-weight: 300;
+    
+}
+
+footer .card-footer{
+    background-color: #272727;
+}
+
+footer .card{
+    border: none!important;
+}

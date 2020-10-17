@@ -1,0 +1,78 @@
+body{
+    font-family: 'Montserrat', sans-serif!important;
+}
+
+nav{
+    background-color: black;
+}
+
+nav a{
+    color: white!important
+}
+
+.signup{
+    margin-right: 100px!important;
+    font-weight: 600;
+}
+
+.navbar-nav{
+    margin-left: 100px!important;
+}
+
+.nav-item{
+    margin-right: 10px;
+    padding: 15px;
+}
+
+.signup-page{
+    margin-top: 80px!important;
+    background-color: black;
+    height: 100vh;
+}
+
+.title{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.signup-form input{
+    margin-bottom: 20px;
+}
+
+.signup-form button{
+    width: 100px;
+}
+
+.signup-page .card{
+    background-color: white;
+    height: 70vh;
+    margin: 60px auto;
+    width: 70%;
+    border: none!important;
+}
+
+.signup-form p{
+    padding-top: 15px;
+    font-weight: 300;
+    font-size: 10px;
+}
+
+.signup-page .card-body{
+    padding: 0!important;
+}
+
+.signup-page .card-body .logo{
+    height: 70vh !important;
+    background-color: #1d1d1d!important;
+    text-align: center;
+}
+
+
+.logo img{
+    width: 70%;
+    padding-top: 140px;
+}
+
+.signup-form h1{
+    font-weight: 500!important;
+}
